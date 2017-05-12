@@ -195,23 +195,7 @@ p {
     z-index: 4;
 }
 
-.face1:hover {
-    width:300px;
-    height: 300px;
-    margin-left: 600px;
-    margin-top: -250px;
-    z-index: 1;
-    position: fixed
-}
 
-.face2 {
-    width:300px;
-    height: 300px;
-    margin-left: 600px;
-    margin-top: -250px;
-    position:fixed;
-    z-index: 3;
-}
 
 .plate {
     background-color: white;
